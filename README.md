@@ -9,6 +9,10 @@ Key features:
 5. Modern styling with StyleSheet for a polished look.
 
 
+https://github.com/sohail290204/Currency_Converter/assets/94800241/b5066ffe-1c32-444a-8fea-b956c0f7d349
+
 download the apk from: 
 
 https://drive.google.com/file/d/1sNShKI7iAl3PEtiLC9VU3ljA8Mw6sSqU/view?usp=sharing
+
+
