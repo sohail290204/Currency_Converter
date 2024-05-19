@@ -84,12 +84,12 @@ export default function ConvertInterface() {
 const styles = StyleSheet.create({
     input: {
         flex: 1,
-        fontSize: 20,
+        fontSize: 15,
         marginLeft: 20,
         marginRight: 20,
         textAlign: 'center',
-        height: 50,
-        width: 200,
+        height: 55,
+    
         backgroundColor: '#303030',
         borderRadius: 20
     },
